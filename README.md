@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://github.com/frbbypassboss-cmd">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: dark)" srcset="[https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
