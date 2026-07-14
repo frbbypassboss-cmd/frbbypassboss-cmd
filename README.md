@@ -1,313 +1,167 @@
-```
-  _____  _____ ____  ____  __  ____  __   ____  ___  ____  ___ 
- / ___/ / ___/  __/ / __ \/ _ \  __\/ _ \ / __ \/ __|/  _ \|__ \
-\___ \ \___ \  /   / / /_\ / _ \\ \_/ / /_\ / / /_\\___ \\ __ \/ _ \
-/____X /____/ /_/   \_____/\_____/\_____/\_____/_____/____//____/
-```
+<!--Banner-->
+![nbsoftdev Banner Image](./img/banner.png)
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴛᴜʜɪɴ!
+*Android App Developer | Library Publisher | Open-Source Enthusiast*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a passionate Android App developer who loves building libraries and contributing to open-source projects. My expertise lies in developing mobile applications and publishing libraries that enhance Android development workflows. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Always learning and exploring **Advanced Android Development**.
+- ✍ Ask me about **Android, Gradle, Open-Source**.
+- ❤ Contributing to Open Source.
+<!--End Intro-->
+
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=softdev-pro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nbsoftdev" style="padding-right:20px;" />
+</p>
+
+---
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/gif/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/gif/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./assets/gif/Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Enhancing my skills in Advanced Android Development.</li>
+  <li>Learning about Kotlin Multiplatform to develop cross-platform applications.</li>
+  <li>Exploring best practices in Gradle build system for Android libraries.</li>
+  <li>Improving my knowledge of Jetpack Compose for modern Android UI development.</li>
+  <li>Exploring performance optimization techniques for Android applications.</li>
+  <li>Learning best practices for managing multi-module projects in Android.</li>
+</ul>
+
+<!--Code Type Gif-->
 <div align="center">
+<h1>
+<img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" width="100"/>
+</h1>
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Realm;Security+%7C+Code+%7C+Innovation;System+Online...;Access+Granted+%F0%9F%A7%A0)
 
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/frbbypassboss-cmd">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=softdev-pro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/frbbypassboss-cmd">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=softdev-pro&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs_merged_percentage,prs,issues&show=reviews,prs_merged,contribs" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/frbbypassboss-cmd">
+          <img align="center" src="https://streak-stats.demolab.com?user=nbsoftdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Mᴏꜱᴛ Uꜱᴇᴅ Lᴀɴɢᴜᴀɢᴇꜱ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/frbbypassboss-cmd/">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsoftdev&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="NBSoftDev" /> 
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/frbbypassboss-cmd">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nbsoftdev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=softdev-pro&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-## 🌐 Terminal Status
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-```
-[*] Username: frbbypassboss-cmd
-[*] Status: ACTIVE
-[*] System: OPERATIONAL  
-[*] Security Level: MAXIMUM
-[+] All systems nominal
-[+] Ready to deploy
-```
 
----
 
-## 💻 Tech Arsenal
 
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+<!--Code Type Gif-->
 <div align="center">
-
-### Languages & Technologies
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&style=flat-square)
-
-### Developer Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code&style=flat-square)
-
+<h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</h1>
 </div>
 
----
 
-## 🔓 Projects Matrix
-
-```
-┌─────────────────────────────────────────┐
-│ > ls -la ~/projects/                    │
-├─────────────────────────────────────────┤
-│ drwx Celine/                   [2026]   │
-│      └─ HTML/Web Dev Project            │
-│                                          │
-│ drwx how-crypto-work-usdt-btc/ [2026]   │
-│      └─ Blockchain & Crypto Insights    │
-│                                          │
-│ drwx Trust/                    [2026]   │
-│      └─ Multi-Language Project          │
-│                                          │
-│ [#] Total Projects: 3                   │
-│ [#] Active Development: ▓▓▓▓▓░░░░░ 60% │
-│ [#] Completion Rate: ▓▓▓▓▓▓░░░░░ 75%  │
-└─────────────────────────────────────────┘
-```
-
----
-
-## 📊 Repository Breakdown
-
-| Project | Type | Language | Status | Link |
-|---------|------|----------|--------|------|
-| **Celine** | Web App | HTML/CSS | 🟢 Active | [View](https://github.com/frbbypassboss-cmd/Celine) |
-| **Crypto** | Research | Docs | 🟢 Active | [View](https://github.com/frbbypassboss-cmd/how-crypto-work-usdt-btc) |
-| **Trust** | Framework | Multi | 🟡 Dev | [View](https://github.com/frbbypassboss-cmd/Trust) |
-
----
-
-## 🎯 Mission Objectives
-
-```
-▓ 🔐 Building secure, elegant applications
-▓ 💡 Exploring cryptography & blockchain technology
-▓ 🚀 Pushing technological boundaries
-▓ 🛡️ Writing clean, efficient, scalable code
-▓ 📚 Continuous learning & innovation
-▓ 🌍 Contributing to the open-source community
-```
-
----
-
-## 📈 System Metrics & Analytics
-
-```
-Skills Development
-███████████████░░░░░░░░░░░░░░░░░░ 48%
-
-Experience Level
-██████████████████████░░░░░░░░░░░░ 67%
-
-Project Completion
-██████████████░░░░░░░░░░░░░░░░░░░░ 43%
-
-Code Quality
-█████████████████████░░░░░░░░░░░░░ 65%
-
-System Uptime
-███████████████████████████░░░░░░░ 84%
-```
-
----
-
-## 🔗 Connection Protocols
-
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-frbbypassboss--cmd-000?&logo=github&style=for-the-badge)](https://github.com/frbbypassboss-cmd)
-[![Email Me](https://img.shields.io/badge/Email-Contact-000?&logo=gmail&style=for-the-badge)](mailto:contact@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-000?&logo=twitter&style=for-the-badge)](https://twitter.com)
-
+<div id="badges">
+  <a href="https://www.facebook.com/frbbypassboss-cmd">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@frbbypassboss-cmd">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://github.com/frbbypassboss-cmd">
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=twitgithubter&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
 </div>
 
----
 
-## 🎨 Activity Timeline
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
-```
-2026
-│
-├─ 2026-04-29 │ ███████████ Crypto Project Major Updates
-│
-├─ 2026-04-08 │ █████████████████ Celine Web Development Sprint
-│
-├─ 2026-03-04 │ ████████ Trust Repository Initialization
-│
-└─ 2026-01-XX │ ████ Project Planning & Architecture Phase
-     
-[================] 100% Year Progress
-```
-
----
-
-## 💾 Recent Activity Log
-
-```bash
-$ git log --oneline --graph
-* Deployed animated profile system
-* Added security protocols v2.0
-* Optimized performance benchmarks
-* Integrated blockchain modules
-* Updated encryption standards
-* Published crypto research
-* Initialized Trust framework
-* Launched Celine web platform
-```
-
----
-
-## 🚀 Skills & Expertise
-
-### Core Competencies
-- **Full-Stack Development** - Frontend & Backend
-- **Cryptography & Security** - Authentication, Encryption
-- **Blockchain Technology** - Smart Contracts, DeFi
-- **Web Development** - HTML, CSS, JavaScript
-- **System Administration** - Linux, Bash Scripting
-- **Version Control** - Git & GitHub Workflows
-
-### Currently Exploring
-- 🔬 Advanced Cryptography
-- 🌐 Web3 & Decentralized Applications
-- 🤖 Artificial Intelligence & ML
-- 📱 Mobile Development
-
----
-
-## 🌟 Featured Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frbbypassboss-cmd&show_icons=true&theme=dark&bg_color=000&text_color=00FF00&border_color=00FF00)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frbbypassboss-cmd&layout=compact&theme=dark&bg_color=000&text_color=00FF00&border_color=00FF00)
-
-</div>
-
----
-
-## 🔐 System Security Status
-
-```
-┌──────────────────────────────────────┐
-│ ⬤ ENCRYPTION: ENABLED                │
-│ ⬤ FIREWALL: ACTIVE                   │
-│ ⬤ AUTHENTICATION: 2FA ENABLED        │
-│ ⬤ AUDIT LOG: RECORDING               │
-│ ⬤ BACKUP SYSTEM: OPERATIONAL         │
-│ ⬤ THREAT LEVEL: MINIMAL              │
-└──────────────────────────────────────┘
-```
-
----
-
-## 📚 Knowledge Base
-
-### Interests
-- Cybersecurity & Ethical Hacking
-- Cryptocurrency & Blockchain
-- Full-Stack Web Development
-- Open Source Contribution
-- Tech Innovation
-
-### Learning Path
-```
-├─ Fundamentals ✓
-├─ Intermediate ✓
-├─ Advanced ◐ (In Progress)
-└─ Expert ○ (Planned)
-```
-
----
-
-## 🎁 Open for Collaboration
-
-```
-🟢 Looking for: 
-   • Open source projects
-   • Blockchain initiatives
-   • Security research
-   • Web3 development
-   • Tech partnerships
-
-📞 Contact: Check GitHub for details
-⚡ Response Time: 24-48 hours
-```
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-
-```
-┌────────────────────────────────────────┐
-│  ◆ System: ONLINE & SECURE            │
-│  ◆ Status: FULLY OPERATIONAL          │
-│  ◆ Mission: IN PROGRESS ▓▓▓▓░░░░░░░░ │
-│  ◆ Access Level: PUBLIC ACCESSIBLE    │
-│  ◆ Last Update: 2026                  │
-└────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🌐 Network Topology
-
-```
-                    ┌─────────────────┐
-                    │  frbbypassboss  │
-                    │     -cmd        │
-                    └────────┬────────┘
-                             │
-                ┌────────────┼────────────┐
-                │            │            │
-          ┌─────▼──┐   ┌────▼───┐   ┌──▼────┐
-          │ Celine │   │ Crypto │   │ Trust │
-          └────────┘   └────────┘   └───────┘
-                │            │            │
-          ┌─────▼──────┬─────▼──────┬───▼─────┐
-          │  Projects  │  Research  │Framework│
-          └────────────┴────────────┴─────────┘
-```
-
----
-
-<div align="center">
-
-### 🏆 Achievements Unlocked
-
-```
-[████████░░] 80% Profile Completion
-[███████░░░] 70% Code Quality Goal
-[██████░░░░] 60% Community Engagement
-```
-
-**Made with 🖤 & ⌨️ | Powered by Code & Coffee ☕**
-
-*Last Updated: 2026 | Repository: Active | System: Online*
-
-```
-╔════════════════════════════════════════╗
-║   🟢 PROFILE SESSION: ACTIVE 🟢       ║
-║   Welcome to my digital sanctuary      ║
-║   Let's build something incredible     ║
-╚════════════════════════════════════════╝
-```
-
-⭐ **If you find this profile interesting, consider leaving a star!** ⭐
-
----
-
-*Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.* 🚀
-
-</div>
-```
