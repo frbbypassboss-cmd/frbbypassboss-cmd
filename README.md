@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Android App developer who loves building libraries and contributing to open-source projects. My expertise lies in developing mobile applications and publishing libraries that help the Android community.
+<p align="left">I am a passionate Android App developer who loves building libraries and contributing to open-source projects. My expertise lies in developing mobile applications and publishing libraries.</p>
 
 - ✨ Student of life :)
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
@@ -80,7 +80,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=frbbypassboss-cmd&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95" alt="GitHub Stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=frbbypassboss-cmd&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95"/>
         </a>
       </p>
     </td>
@@ -88,7 +88,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd">
-          <img align="center" src="https://streak-stats.demolab.com?user=frbbypassboss-cmd&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats">
+          <img align="center" src="https://streak-stats.demolab.com?user=frbbypassboss-cmd&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@
       <h3 align="center"><strong>Mᴏꜱᴛ Uꜱᴇᴅ Lᴀɴɢᴜᴀɢᴇꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd/">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frbbypassboss-cmd&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frbbypassboss-cmd&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
         </a>
       </p>
     </td>
@@ -106,7 +106,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=frbbypassboss-cmd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=frbbypassboss-cmd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350"/>
         </a>
       </p>
     </td>
@@ -117,7 +117,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=frbbypassboss-cmd&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=frbbypassboss-cmd&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -154,7 +154,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://github.com/frbbypassboss-cmd">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=twitgithubter&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 </div>
