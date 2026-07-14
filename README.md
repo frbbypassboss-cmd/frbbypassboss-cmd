@@ -1,5 +1,5 @@
 <!--Banner-->
-![nbsoftdev Banner Image](./img/banner.png)
+![frbbypassboss-cmd Banner Image](./img/banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=softdev-pro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nbsoftdev" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=softdev-pro&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="frbbypassboss-cmd" style="padding-right:20px;" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd">
-          <img align="center" src="https://streak-stats.demolab.com?user=nbsoftdev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=frbbypassboss-cmd&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@
       <h3 align="center"><strong>Mᴏꜱᴛ Uꜱᴇᴅ Lᴀɴɢᴜᴀɢᴇꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd/">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsoftdev&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="NBSoftDev" /> 
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frbbypassboss-cmd&layout=compact&hide_progress=true&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="frbbypassboss-cmd" /> 
         </a>
       </p>
     </td>
@@ -106,7 +106,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/frbbypassboss-cmd">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nbsoftdev&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=frbbypassboss-cmd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
